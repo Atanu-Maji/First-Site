@@ -1,1 +1,1 @@
-This is only the Front-End design of a dating website.
+This contains only the Front-End design of a website.
